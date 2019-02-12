@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quieng.muhammadhsareini.com/sitemap.xml
